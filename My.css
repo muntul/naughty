@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  bantalan: 0;
+  font-family: "montserrat", sans-serif;
+}
+.halaman arahan{
+  lebar: 100%;
+  tinggi: 100vh;
+  latar belakang: # 000;
+  posisi: relatif;
+  overflow: tersembunyi;
+}
+.landing-page :: setelah {
+  kandungan: "";
+  posisi: mutlak;
+  kiri: 0;
+  atas: 0;
+  lebar: 100%;
+  tinggi: 100%;
+  background: url (https://1.bp.blogspot.com/-jEElPlXBnI4/XIPUB7lDSEI/AAAAAAAACTA/ykrRloEHX5IfC7WdKISo1RyW4CH0HzdeQCKgBGAs/s320/Rubbing%2Bher%2Bpussy1.gif) no-repeat;
+  ukuran latar belakang: penutup;
+  opasitas: .3;
+  animasi:;
+}
+@kebayamuslim_id
+  50% {
+    transformasi: skala (2);
+  }
+  100% {
+    transformasi: skala (1);
+  }
+}
+.page-content {
+  posisi: mutlak;
+  atas: 50%;
+  kiri: 50%;
+  transform: translate (-50%, - 50%);
+  z-indeks: 1;
+  lebar: 100%;
+  lebar maks: 800 piksel;
+  text-align: center;
+  bantalan: 0 40px;
+  ukuran kotak: border-box;
+}
+.page-content h1 {
+  warna: # ff7979;
+  text-transform: huruf besar;
+  ukuran font: 50px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.page-content p {
+  warna: #fff;
+  margin-bottom: 20px;
+}
+.page-content a {
+  tampilan: blok-sebaris;
+  dekorasi-teks: tidak ada;
+  warna: # ff7979;
+  batas: 2 piksel solid # ff7979;
+  text-transform: huruf besar;
+  padding: 10px 20px;
+  transisi: 0,4s linier;
+}
+.page-content a: hover {
+  warna: #fff;
+  latar belakang: # ff7979;
+}
+.teks{
+  padding: 10px;
+  text-align: justify;
+}
+.text div {
+  margin-bottom: 6px;
+}
